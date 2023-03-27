@@ -1,6 +1,6 @@
 - 👋 Hi, I’m KhoiLee
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Analyst and create Android app  
+- 🌱 I’m currently learning Data Analyst and Django
 - 📫 How to reach me: likhoi850@gmail.com
 
 <!---
