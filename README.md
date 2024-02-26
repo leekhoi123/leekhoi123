@@ -1,6 +1,6 @@
-- 👋 Hi, I’m KhoiLee
+- 👋 Hi, I’m LeeKhoi
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Analyst and Django
+- 🌱 I’m currently learning Data Science and Ai
 - 📫 How to reach me: likhoi850@gmail.com
 
 <!---
